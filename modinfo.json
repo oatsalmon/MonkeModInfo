@@ -8,38 +8,6 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
   },
   {
-    "name": "Bepinject",
-    "author": "Auros",
-    "version": "1.0.1",
-    "dependencies": [
-      "Extenject"
-    ],
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
-  },
-  {
-    "name": "Extenject",
-    "author": "svermeulen",
-    "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
-    "name": "Tic Tac Toe",
-    "author": "Husky",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "HuskyGT/TicTacToe",
-    "group": "Gameplay",
-    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
-  },
-  {
     "name": "Utilla",
     "author": "Dev",
     "version": "1.6.14",
@@ -54,5 +22,24 @@
     "git_path": "The-Graze/Grate",
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.1/Grate.dll"
+  },
+  {
+  "name": "Tic Tac Toe",
+  "author": "Husky",
+  "version": "1.0.3",
+  "dependencies": [
+    "Utilla"
+  ],
+   "git_path": "HuskyGT/TicTacToe",
+   "group": "Gameplay",
+   "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
+  },
+  {
+      "name": "GorillaShirts",
+      "author": "Dev",
+      "version":"1.1.8",
+      "git_path": "developer9998/GorillaShirts",
+      "group": "Gameplay",
+      "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/1.1.8b/GorillaShirts.dll"
   }
 ]
