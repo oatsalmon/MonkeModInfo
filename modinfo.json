@@ -64,6 +64,14 @@
     "download_url": "https://github.com/BrokenSt0ne/FarClipPlane/releases/download/v1.0.0/FarClipPlane.dll"
   },
   {
+    "name": "TpHome",
+    "author": "RushKiller",
+    "version": "1.3",
+    "git_path": "RushKiller001/TpHome",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/RushKiller001/TpHome/releases/download/1.3/TpHome.dll"
+  },
+  {
     "name": "Gorilla-Homes",
     "author": "wryser",
     "version": "2.0.0",
