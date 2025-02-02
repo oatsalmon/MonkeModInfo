@@ -32,6 +32,14 @@
     "download_url": "https://github.com/The-Graze/BetterMirror/releases/download/3.1/BetterMirror.dll"
   },
   {
+    "name": "Blink2",
+    "author": "Graze",
+    "version": "1.0.2",
+    "git_path": "The-Graze/Blink2",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/Blink2/releases/download/1.0.2/Blink2.dll"
+  },
+  {
     "name": "WhoIsTalking",
     "author": "Graze",
     "version": "4.2.0.5",
