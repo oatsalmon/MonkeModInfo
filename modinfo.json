@@ -24,6 +24,14 @@
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.1/Grate.dll"
   },
   {
+    "name": "WhoIsTalking",
+    "author": "Graze",
+    "version": "4.2.0.5",
+    "git_path": "The-Graze/WhoIsTalking",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/download/4.2.0.5/WhoIsTalking.dll"
+  },
+  {
   "name": "Tic Tac Toe",
   "author": "Husky",
   "version": "1.0.3",
