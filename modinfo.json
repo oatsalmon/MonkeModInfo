@@ -18,10 +18,10 @@
   {
     "name": "Grate",
     "author": "Graze",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "git_path": "The-Graze/Grate",
     "group": "Gameplay",
-    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.1/Grate.dll"
+    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.2/Grate.dll"
   },
   {
     "name": "BetterMirror",
