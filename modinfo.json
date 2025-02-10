@@ -48,14 +48,6 @@
     "download_url": "https://github.com/The-Graze/Blink2/releases/download/1.0.2/Blink2.dll"
   },
   {
-    "name": "Bedroom Mod",
-    "author": "Graze",
-    "version": "2.0",
-    "git_path": "The-Graze/Bedroom-Mod",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/The-Graze/Bedroom-Mod/releases/download/2.0/Bedroom_Mod.dll"
-  },
-  {
     "name": "WhoIsTalking",
     "author": "Graze",
     "version": "4.2.1",
