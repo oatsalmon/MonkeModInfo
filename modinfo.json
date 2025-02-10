@@ -24,6 +24,14 @@
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.2/Grate.dll"
   },
   {
+    "name": "BananaOS",
+    "author": "Husky",
+    "version": "1.0.9",
+    "git_path": "HuskyGT/Banana-OS",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/1.0.9/BananaOS.dll"
+  },
+  {
     "name": "BetterMirror",
     "author": "Graze",
     "version": "3.1",
