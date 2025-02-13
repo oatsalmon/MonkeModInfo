@@ -80,11 +80,43 @@
     "download_url": "https://github.com/RushKiller001/TpHome/releases/download/1.3/TpHome.dll"
   },
   {
-    "name": "Gorilla-Homes",
+    "name": "OculusReportMenu",
+    "author": "OatSalmon",
+    "version": "1.0.3",
+    "git_path": "oatsalmon/OculusReportMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/oatsalmon/OculusReportMenu/releases/download/v1.0.3/OculusReportMenu.dll"
+  },
+  {
+    "name": "Gorilla Discord RPC",
+    "author": "Chin",
+    "version": "1.0.0",
+    "git_path": "Chin0303/Gorilla-Discord-RPC",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/download/1.0.1/GorillaTag.Discord.RPC.zip"
+  },
+  {
+    "name": "GorillaHomes",
     "author": "wryser",
     "version": "2.0.0",
     "git_path": "wryser/Gorilla-Homes",
     "group": "Cosmetic",
     "download_url": "https://github.com/wryser/Gorilla-Homes/releases/download/2.0.0/GorillaHomes.zip"
+  },
+  {
+    "name": "Leaderboard Colors",
+    "author": "Striker-67",
+    "version": "1.0.8",
+    "git_path": "Striker-67/leaderboard-colors",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/Striker-67/leaderboard-colors/releases/download/1.0.8/LeaderBaordColors.dll"
+  },
+  {
+    "name": "Computer Backgrounds",
+    "author": "Striker-67",
+    "version": "1.0.5",
+    "git_path": "Striker-67/computer-backgrounds",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/Striker-67/computer-backgrounds/releases/download/1.0.5/ComputerBackgrounds.dll"
   }
 ]
