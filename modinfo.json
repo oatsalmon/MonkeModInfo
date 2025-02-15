@@ -82,10 +82,10 @@
   {
     "name": "OculusReportMenu",
     "author": "OatSalmon",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "git_path": "oatsalmon/OculusReportMenu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/oatsalmon/OculusReportMenu/releases/download/v1.0.4/OculusReportMenu.dll"
+    "download_url": "https://github.com/oatsalmon/OculusReportMenu/releases/download/v1.0.5/OculusReportMenu.dll"
   },
   {
     "name": "Gorilla Discord RPC",
