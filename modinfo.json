@@ -23,6 +23,14 @@
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.2/Grate.dll"
   },
+    {
+    "name": "Index",
+    "author": "zaynethedev",
+    "version": "1.0.2",
+    "git_path": "zaynethedev/Index",
+    "group": "zGrate is Better but",
+    "download_url": "https://github.com/zaynethedev/Index/releases/download/v1.0.2/Index.dll"
+  },
   {
     "name": "BananaOS",
     "author": "Husky",
