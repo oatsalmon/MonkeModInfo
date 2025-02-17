@@ -134,5 +134,45 @@
     "git_path": "Striker-67/computer-backgrounds",
     "group": "Cosmetic",
     "download_url": "https://github.com/Striker-67/computer-backgrounds/releases/download/1.0.5/ComputerBackgrounds.dll"
-  }
+  },
+  {
+    "name": "OldHoldables",
+    "author": "lunakittyyy",
+    "version": "2.4.2",
+    "git_path": "lunakittyyy/OldHoldables",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/lunakittyyy/OldHoldables/releases/download/2.4.2/OldHoldables.dll"
+  },
+  {
+    "name": "FuckOffMonkeySounds",
+    "author": "lunakittyyy",
+    "version": "1.1.0",
+    "git_path": "lunakittyyy/FuckOffMonkeySounds",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/lunakittyyy/FuckOffMonkeySounds/releases/download/1.1.0/FuckOffMonkeySoundsBIE.dll"
+  },
+  {
+    "name": "GorillaXS",
+    "author": "lunakittyyy",
+    "version": "1.2.1",
+    "git_path": "lunakittyyy/GorillaXS",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/lunakittyyy/GorillaXS/releases/download/1.2.1/GorillaXS.dll"
+  },
+  {
+    "name": "GorillaXS Basics",
+    "author": "lunakittyyy",
+    "version": "1.1.0",
+    "git_path": "lunakittyyy/GorillaXS.Basics",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/lunakittyyy/GorillaXS.Basics/releases/download/1.1.0/GorillaXS.Basics.dll"
+  },
+  {
+    "name": "GorillaEarmuffs",
+    "author": "lunakittyyy",
+    "version": "1.0.0",
+    "git_path": "lunakittyyy/GorillaEarmuffs",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/lunakittyyy/GorillaEarmuffs/releases/download/1.0.0/GorillaEarmuffs.dll"
+  },
 ]
